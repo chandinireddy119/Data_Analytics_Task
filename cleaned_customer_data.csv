@@ -1,0 +1,10 @@
+Customer_ID,Name,Age,Email,City,Join_Date,Purchase_Amount
+101,Alice Johnson,25.0,alice@email.com,Hyderabad,2023-10-01,2500.0
+102,Bob Smith,30.0,bob@email.com,Hyderabad,,3200.0
+103,Charlie Brown,32.5,charlie@email.com,Bangalore,,1800.0
+104,David Wilson,45.0,david@email.com,Chennai,,4500.0
+105,Unknown,28.0,not_available@email.com,Unknown,,3000.0
+106,Grace Lee,31.25,grace@email.com,Mumbai,2023-01-06,2800.0
+107,Henry Davis,35.0,henry@email.com,Delhi,,5000.0
+108,Ivy Miller,29.0,ivy@email.com,Hyderabad,,0.0
+109,Jack Wilson,40.0,jack@email.com,Chennai,2023-10-09,3500.0
