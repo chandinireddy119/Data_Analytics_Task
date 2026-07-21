@@ -1,44 +1,24 @@
-# Task 4 - Geospatial Data Analysis
+# Task 5 - Interactive Dashboard Development
 
-## Project Description
+## Objective
 
-This project analyzes location-based sales data across major Indian cities using Python, Pandas, and Folium. It identifies high-performing regions, evaluates sales per store, and recommends expansion opportunities using an interactive geographic map.
+Create an interactive dashboard using Streamlit.
 
 ## Technologies Used
 
-* Python
-* Pandas
-* Folium
+- Python
+- Streamlit
+- Pandas
 
-## Project Structure
+## Files
 
-Task4_Geospatial_Data_Analysis/
-│── geospatial_sales.csv
-│── task4_geospatial_analysis.py
-│── requirements.txt
-│── README.md
-│── geospatial_analysis_map.html
-
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
+- sales_dashboard.csv
+- task5_dashboard.py
+- requirements.txt
 
 ## Run
 
 ```bash
-python task4_geospatial_analysis.py
+pip install -r requirements.txt
+python -m streamlit run task5_dashboard.py
 ```
-
-## Output
-
-* Sales analysis report
-* Top performing city
-* Sales per store analysis
-* Expansion recommendations
-* Interactive India map (HTML)
-
-## Author
-
-Chandini Reddy
