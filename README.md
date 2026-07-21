@@ -1,5 +1,4 @@
-
-# Task 2 - Customer Churn Analysis
+# Task 3 - Web Traffic Analytics
 
 ## Technologies Used
 - Python
@@ -8,6 +7,14 @@
 
 ## Run
 
+```bash
 pip install -r requirements.txt
+python task3_web_traffic_analysis.py
+```
 
-python task2_customer_churn.py
+## Output
+- Web traffic statistics
+- Traffic source analysis
+- Line chart
+- Bar chart
+- Pie chart
