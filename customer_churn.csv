@@ -1,0 +1,11 @@
+Customer_ID,Gender,Age,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,SupportCalls,LoginFrequency,Churn
+1001,Female,25,2,1200,2400,Month-to-month,Credit Card,5,8,Yes
+1002,Male,42,24,900,21600,One year,Bank Transfer,1,28,No
+1003,Female,31,6,1500,9000,Month-to-month,Credit Card,4,12,Yes
+1004,Male,55,36,800,28800,Two year,Cash,0,30,No
+1005,Female,28,4,1300,5200,Month-to-month,UPI,6,10,Yes
+1006,Male,38,18,950,17100,One year,Credit Card,2,25,No
+1007,Female,47,30,850,25500,Two year,Bank Transfer,1,27,No
+1008,Male,22,1,1400,1400,Month-to-month,Cash,7,6,Yes
+1009,Female,35,15,1000,15000,One year,UPI,2,20,No
+1010,Male,29,3,1250,3750,Month-to-month,Credit Card,5,9,Yes
